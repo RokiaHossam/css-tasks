@@ -1,0 +1,51 @@
+/*          التكليف الأول        */
+div.text{
+    color: black;
+    text-shadow: .5px .5px 0px rgb(225, 72, 16),  1px .5px 0px  rgb(48, 107, 226), 1.5px .5px 0px  rebeccapurple;
+}
+
+/*           التكليف الثاني      */
+.one{
+    text-transform: uppercase;
+}
+.two{
+    text-transform: capitalize;
+}
+.three{
+    text-transform: lowercase;
+}
+
+/*             التكليف الثالث        */
+div.p1{
+    color: black;
+    background-color: rgb(208, 209, 212);
+    width: 400px;
+    padding: 20px;
+    white-space:normal;
+}
+div.p2{
+    color: black;
+    background-color: rgb(208, 209, 212);
+    width: 400px;
+    padding: 20px;
+}
+div.p3{
+    color: black;
+    background-color: rgb(208, 209, 212);
+    width: 400px;
+    padding: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*               التكليف الرابع         */ 
+ .link{
+    color: white;
+    background-color: rgb(27, 195, 164);
+    text-decoration:none;
+    padding: 20px;
+    text-transform: capitalize;
+    display: inline-block;
+    border-bottom: 5px solid rgb(0, 113, 87);
+}
