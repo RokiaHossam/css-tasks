@@ -1,0 +1,49 @@
+/*                   التكليف الأول           */
+div.p{
+    text-align: center;
+    padding: 20px;
+    background-color: #eee;
+    font-size: 20px;
+    border: 5px solid rgb(255, 99, 42);
+}
+div p{
+    padding: inherit;
+    border: inherit;
+}
+
+
+/*                              التكليف الثاني                  */
+div.e1{
+    text-transform: capitalize;
+    font-family: "Open Sans";
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+}
+div.e2{
+    text-transform: capitalize;
+    font-family:"Cairo";
+    font-weight: 700;
+    text-align: center;
+}
+div.e3{
+    text-transform: capitalize;
+    font-family: "Jomhuria";
+    font-weight: 400;
+    text-align: center;
+}
+
+
+/*                             النكليف الثالث                     */
+body{
+   font-size: 20px;
+}
+div.t1{
+    font-size: 2.5rem;
+}
+div.t2{
+    font-size: 2rem;
+}
+div.t3{
+    font-size: 1.5rem;
+}
