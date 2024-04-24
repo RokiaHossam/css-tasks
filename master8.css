@@ -1,0 +1,72 @@
+/*                        التكليف الأول                  */
+.green,.red,.blue,.black{
+    width: 100px;
+    height: 100px;
+    position: absolute; 
+    margin: 20px;
+}
+.red{
+    background-color: red;
+    z-index: 3;
+    top: 40px;
+    left: 40px;
+    
+}
+.green{
+    background-color: green;
+    z-index: 2;
+    left: 20px;
+    top: 20px;
+}
+.blue{
+    background-color: blue;
+    z-index: 1;
+   top: -10px; 
+    position: absolute;
+
+    
+}
+
+.black{
+    background-color:black ;
+    z-index: 0;
+    position: static; 
+    top: 20px;
+}
+
+
+/*                                     التكليف الثاني                     */
+.e{
+    width: 400px;
+    text-align: center;
+    background-color: #eee;
+    border-color: red blue ;
+    border-style:solid;
+
+} 
+.top-left{
+   background-color: blue;
+   border-left-color:red ;
+   display: block;
+
+}
+
+
+/*                                    التكليف الثالث               */
+ul{  
+    display: table;
+    width: 400PX;
+    background-color: #eee;
+    list-style-position: inside;
+} 
+.LI1,.LI2,.LI3{
+    list-style-type: none;
+}
+.li1{
+    background-color:rgb(214, 220, 230) ;
+    padding: 5px;
+    margin: 5px;
+    
+}
+
+
