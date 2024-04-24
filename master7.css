@@ -1,0 +1,59 @@
+.D{
+    background-color:#bbb;
+    text-align: center;
+    width: 800px; 
+    padding-top: 10px;
+    
+}
+
+div .d1{
+    background-color: #eee;
+    padding: 15px;
+    width: calc(100% - 60px);
+    margin: 15px;
+}
+div .a1{
+    background-color: #eee;
+    float: left;
+    width: calc((100% - 150px)/3);
+    margin-left:15px;
+    padding: 15px;
+}
+.clear{
+    clear: both;
+}
+div .a2{
+    background-color: #eee;
+    float: left;
+    width: calc((100% - 105px) / 2);
+    margin: 15px 0 0 15px;
+    padding: 15px;
+}
+div .a3{
+    background-color: #eee;
+    float: left;
+    width: calc((100% - 195px)/4);
+    margin: 15px 0 15px 15px;
+    padding: 15px;
+}
+
+
+/*                     التكليف الثاني               */
+.normal,.one,.two {
+    margin: 20px auto;
+    width: 300px;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 20px;
+    background-color:#cdcaca
+
+  }
+.one{
+    background-color: rgba(205, 202, 202, 0.1);
+}
+.two{
+    opacity: .1;
+}
+
+
+
